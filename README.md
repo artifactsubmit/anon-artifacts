@@ -4,7 +4,7 @@ Este repositório disponibiliza os artefatos utilizados no artigo submetido à t
 
 ## 📁 Conteúdo
 
-- **Planilha_MSL_Estudos_Selecionados_Extração_CI_CE.ods**
+- **Planilha_MSL_Estudos_Selecionados_Extração_CI_CE.xls**
   - Aplicação dos critérios de inclusão e exclusão (aba "Critérios(CI_CE)")
     Extração dos Dados (aba "ExtDados(Dados Bibliométricos)")
     Extração dos Dados (aba "ExtDados(Aspectos Técnicos)")
